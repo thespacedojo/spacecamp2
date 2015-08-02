@@ -418,6 +418,11 @@ a.minimal i.left {
   padding: 15px 5px 7px;
 }
 
+.program .includes {
+  font-size: 1.2em;
+  margin-bottom: 70px;
+}
+
 .logo {
   width: 100%;
   height: auto;
