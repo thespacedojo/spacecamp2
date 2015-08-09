@@ -423,6 +423,11 @@ a.minimal i.left {
   margin-bottom: 70px;
 }
 
+.program .includes p {
+  font-size: 14px;
+  opacity: .85;
+}
+
 .logo {
   width: 100%;
   height: auto;
@@ -450,6 +455,10 @@ a.minimal i.left {
     margin: 0;
   }
 
+  .program .includes p {
+    font-size: 20px;
+  }
+
   .tier {
     margin-bottom: 10px;
   }
@@ -466,7 +475,7 @@ a.minimal i.left {
 
 .program.options {
   padding-bottom: 0;
-  margin-top: 80px;
+  margin-top: 30px;
   margin-bottom: 50px;
 }
 
