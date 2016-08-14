@@ -661,6 +661,10 @@ a.minimal i.left {
   margin-bottom: 10px;
 }
 
+#get-tickets .row {
+  margin-bottom: 75px;
+}
+
 .bar {
   width: 100%;
   margin: 0 auto;
